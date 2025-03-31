@@ -32,7 +32,7 @@ const Intro: React.FC = () => {
         {/* Headline */}
         <motion.h1
           // Make headline smaller on mobile, then bigger from sm breakpoint onwards
-          className="mb-4 mt-16 px-4 text-5xl font-extrabold tracking-tight
+          className="mb-4 mt-20 px-4 text-5xl font-extrabold tracking-tight
                      bg-gradient-to-r from-nord-8 to-nord-9 text-transparent
                      bg-clip-text drop-shadow-2xl
                      sm:text-7xl md:text-8xl"
