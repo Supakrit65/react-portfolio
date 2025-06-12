@@ -17,7 +17,7 @@ const contactMethods: ContactMethod[] = [
   {
     icon: <FaLinkedin className="w-8 h-8" />,
     title: "LinkedIn",
-    value: "Let's connect professionally",
+    value: "Connect with me on LinkedIn",
     link: "https://www.linkedin.com/in/supakritaphonmaeklong/",
   },
   {
